@@ -14,9 +14,7 @@ I build compilers, IoT systems, mobile apps, and web applications — mostly in 
 
 ---
 
-## ⭐ Top 6 Projects (recommended pin order)
-
-> Pin these on your profile: **Profile → Customize pins** — drag to match this order.
+## Featured Projects
 
 | # | Project | Why |
 |---|---------|-----|
